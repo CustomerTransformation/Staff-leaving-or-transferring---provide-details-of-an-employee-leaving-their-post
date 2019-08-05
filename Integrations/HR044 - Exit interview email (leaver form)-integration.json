@@ -1,0 +1,16 @@
+[
+    {
+        "ID": "5c3c65758c381",
+        "Name": "HR044 - Exit interview email (leaver form)",
+        "Type": "EMAIL",
+        "LIM_id": "83ef69d1-2c5e-11e5-ad20-22000a7a05f5",
+        "Editable": true,
+        "LIM_name": "Portsmouth",
+        "Category": "Staff forms",
+        "data_type": "integration-lookup",
+        "allow_offline": 0,
+        "Output_template": "{\"subject\":\"Exit interview \",\"fromName\":\"{NoReplyEmail_N} \",\"from\":\"{NoReplyEmail} \",\"recipients_to\":\"{employeesEmail}\",\"recipients_cc\":\"\",\"recipients_bcc\":\"\",\"pdf_attachments\":\"\",\"body\":\"<h3>Exit Interview/Questionnaire</h3>\\n\\n<p>We strongly encourage you to complete the <a href=\\\"http://svp-ebsapp01.ad.portsmouth.gov.uk:8000/OA_HTML/RF.jsp?function_id=9972&amp;resp_id=59310&amp;resp_appl_id=800&amp;security_group_id=0&amp;lang_code=US&amp;oas=QEyUrNYlTlO4rV-qcanaIQ..&amp;params=CGoGtuNtJVCNEDV8nL5j.89hRDMMBuNXGmY.HUS5Oog\\\" target=\\\"_blank\\\"> Exit Questionnaire</a> on EBS under HR Employee Self-Service or / and if you wished to add further comments please arrange an Exit Interview with your line manager. on EBS under HR Employee Self-Service.</p>\\n\\n<p>This will help us to understand the reasons for you leaving PCC and your experiences whilst working here.</p>\\n\\n<p>We will use this information to help us improve employee's experience in the future.</p>\",\"attachments\":\"\"}",
+        "log_only_on_error": 0,
+        "error_notification": "{\"LIM_id\":\"3f07ecf4-0dfa-11e2-b0b9-12313b03ed59\",\"LIM_name\":\"LIM14\",\"recipients_to\":\"Daniela.Dutu@portsmouthcc.gov.uk\"}"
+    }
+]
